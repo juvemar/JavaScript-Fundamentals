@@ -1,0 +1,22 @@
+body{
+    font-family: cursive;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    font-weight: 600;
+    color:green;
+}
+
+p{
+    font-weight: 100;
+    color:lightgreen;
+}
+
+footer{
+    font-weight: bold;
+    color:grey;
+}

@@ -1,0 +1,26 @@
+body{
+    font-family: cursive;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    font-weight: 600;
+    color:green;
+}
+
+p{
+    font-weight: 100;
+    color:lightgreen;
+}
+
+footer{
+    font-weight: bold;
+    color:grey;
+}
+
+#note{
+    color:#3c7fb1;
+}
